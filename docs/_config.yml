@@ -11,7 +11,7 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Numa Earth
+serverName: 沼Earth
 serverDescription: 新生アースサーバー「沼Earth」に今すぐ参加
 serverIP: earth.nmen.me
 useBedrockForOnlineStatus: false
